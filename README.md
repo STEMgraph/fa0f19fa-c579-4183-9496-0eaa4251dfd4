@@ -1,6 +1,7 @@
 <!---
 {
   "id": "fa0f19fa-c579-4183-9496-0eaa4251dfd4",
+  "teaches": "Printing Runtime Values",
   "author": "Stephan Bökelmann",
   "depends_on": ["a2596a91-c7de-477a-bfbb-b08867f1aa89"],
   "first_used": "2025-03-20",
